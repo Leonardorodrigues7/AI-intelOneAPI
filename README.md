@@ -100,7 +100,7 @@ Code samples are licensed under the MIT license. See [License.txt](https://githu
 
 ---
 
-[Murilo Boratto](http://lattes.cnpq.br/9222855062709254) <br/>
-Researcher at the Supercomputing Center for Industrial Innovation SENAI-CIMATEC [CS2I](https://www.senaicimatec.com.br/) <br/>
+[Leonardo Rodrigues](https://www.linkedin.com/in/leonardorodrigues7/) <br/>
+Control and Automation Engineer | Project Management Specialist | Embedded Electronics | IoT Projects | Arduino | Raspberry Pi | Altium designer | Eagle | C | Python | Linux Systems <br/>
 
 
