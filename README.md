@@ -58,23 +58,23 @@ The AI-sample repository is organized by high-level categories.
   - [04-artificial-neurons-scikit-learning](https://github.com/Leonardorodrigues7/AI-intelOneAPI/blob/51231e970b794517056c264b6061318385c22790/1-Artificial-Neurons/04-artificial-neurons-scikit-learning.ipynb)
   - [05-artificial-neurons-assessment.ipynb](https://github.com/Leonardorodrigues7/AI-intelOneAPI/blob/51231e970b794517056c264b6061318385c22790/1-Artificial-Neurons/05-artificial-neurons-assessment.ipynb)
 - [Neural Network]
-  - [01-multilayer-artificial-neurons-introduction.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/2-Neural-Network/01-multilayer-artificial-neurons-introduction.ipynb)
-  - [02-multilayer-artificial-neurons-classification.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/2-Neural-Network/02-multilayer-artificial-neurons-classification.ipynb)
-  - [03-multilayer-artificial-neurons-regression.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/2-Neural-Network/03-multilayer-artificial-neurons-regression.ipynb)
-  - [04-multilayer-artificial-neurons-fitting.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/2-Neural-Network/04-multilayer-artificial-neurons-fitting.ipynb)
-  - [05-multilayer-assessment.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/2-Neural-Network/05-multilayer-artificial-neurons-classification-regression-assessment.ipynb)
+  - [01-multilayer-artificial-neurons-introduction.ipynb](https://github.com/Leonardorodrigues7/AI-intelOneAPI/blob/51231e970b794517056c264b6061318385c22790/2-Neural-Network/01-multilayer-artificial-neuron-introduction.ipynb)
+  - [02-multilayer-artificial-neurons-classification.ipynb](https://github.com/Leonardorodrigues7/AI-intelOneAPI/blob/51231e970b794517056c264b6061318385c22790/2-Neural-Network/02-multilayer-artificial-neuron-classification.ipynb)
+  - [03-multilayer-artificial-neurons-regression.ipynb](https://github.com/Leonardorodrigues7/AI-intelOneAPI/blob/51231e970b794517056c264b6061318385c22790/2-Neural-Network/03_multilayer-artificial-neuron-regression.ipynb)
+  - [04-multilayer-artificial-neurons-fitting.ipynb](https://github.com/Leonardorodrigues7/AI-intelOneAPI/blob/51231e970b794517056c264b6061318385c22790/2-Neural-Network/04-multilayer-artificial-neuron-fitting.ipynb)
+  - [05-multilayer-assessment.ipynb](https://github.com/Leonardorodrigues7/AI-intelOneAPI/blob/51231e970b794517056c264b6061318385c22790/2-Neural-Network/05-multilayer-artificial-neuron-classification-regression-assessment.ipynb)
 - [Bio-inspired]
-  - [01-bio-inspired-introduction.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/3-Bio-Inspired/01-bio-inspired-introduction.ipynb)
-  - [02-bio-inspired-genetic-algorithm.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/3-Bio-Inspired/02-bio-inspired-genetic-algorithm.ipynb)
-  - [03-bio-inspired-ant-colony-algorithm.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/3-Bio-Inspired/03-bio-inspired-ant-colony-algorithm.ipynb)
-  - [04-bio-inspired-particle-swarm-optimization.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/3-Bio-Inspired/04-bio-inspired-particle-swarm-optimization.ipynb)
-  - [05-bio-inspired-intelSigOpt.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/3-Bio-Inspired/05-bio-inspired-intelSigOpt.ipynb)
-  - [06-bio-inspired-assessment.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/3-Bio-Inspired/06-bio-inspired-assessment.ipynb)
+  - [01-bio-inspired-introduction.ipynb](https://github.com/Leonardorodrigues7/AI-intelOneAPI/blob/51231e970b794517056c264b6061318385c22790/3-Bio-Inspired/01-bio-inspired-introduction.ipynb)
+  - [02-bio-inspired-genetic-algorithm.ipynb](https://github.com/Leonardorodrigues7/AI-intelOneAPI/blob/51231e970b794517056c264b6061318385c22790/3-Bio-Inspired/02-bio-inspired-genetic-algorithm.ipynb)
+  - [03-bio-inspired-ant-colony-algorithm.ipynb](https://github.com/Leonardorodrigues7/AI-intelOneAPI/blob/51231e970b794517056c264b6061318385c22790/3-Bio-Inspired/03-bio-inspired-ant-colony-algorithm.ipynb)
+  - [04-bio-inspired-particle-swarm-optimization.ipynb](https://github.com/Leonardorodrigues7/AI-intelOneAPI/blob/51231e970b794517056c264b6061318385c22790/3-Bio-Inspired/04-bio-inspired-particle-swarm-optimization.ipynb)
+  - [05-bio-inspired-intelSigOpt.ipynb](https://github.com/Leonardorodrigues7/AI-intelOneAPI/blob/51231e970b794517056c264b6061318385c22790/3-Bio-Inspired/05-bio-inspired-intelSigOpt.ipynb)
+  - [06-bio-inspired-assessment.ipynb](https://github.com/Leonardorodrigues7/AI-intelOneAPI/blob/51231e970b794517056c264b6061318385c22790/3-Bio-Inspired/06-bio-inspired-assessment.ipynb)
 - [HPC Simulations]
-  - [01-hpc-simulations-introduction](https://github.com/muriloboratto/AI-university-assignments/blob/master/4-HPC-Simulations/01-hpc-simulations-introduction.ipynb)
-  - [02-hpc-simulations-tensorflow](https://github.com/muriloboratto/AI-university-assignments/blob/master/4-HPC-Simulations/02-hpc-simulations-tensorflow.ipynb)
-  - [03-hpc-simulations-pytorch](https://github.com/muriloboratto/AI-university-assignments/blob/master/4-HPC-Simulations/03-hpc-simulations-pytorch.ipynb)
-  - [04-hpc-simulations-assessment](https://github.com/muriloboratto/AI-university-assignments/blob/master/4-HPC-Simulations/04-hpc-simulations-assessment.ipynb) 
+  - [01-hpc-simulations-introduction](https://github.com/Leonardorodrigues7/AI-intelOneAPI/blob/51231e970b794517056c264b6061318385c22790/4-HPC-Simulations/01-hpc-simulations-introduction.ipynb)
+  - [02-hpc-simulations-tensorflow](https://github.com/Leonardorodrigues7/AI-intelOneAPI/blob/51231e970b794517056c264b6061318385c22790/4-HPC-Simulations/02-hpc-simulations-tensorflow.ipynb)
+  - [03-hpc-simulations-pytorch](https://github.com/Leonardorodrigues7/AI-intelOneAPI/blob/51231e970b794517056c264b6061318385c22790/4-HPC-Simulations/03-hpc-simulations-pytorch.ipynb)
+  - [04-hpc-simulations-assessment](https://github.com/Leonardorodrigues7/AI-intelOneAPI/blob/51231e970b794517056c264b6061318385c22790/4-HPC-Simulations/04-hpc-simulations-assessment.ipynb) 
 ---
 
 ## Known Issues:
