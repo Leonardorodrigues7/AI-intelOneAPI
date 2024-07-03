@@ -52,11 +52,11 @@ The project dependencies are described in ```./Installing-Dependencies/install_d
 The AI-sample repository is organized by high-level categories.
 
 - [Artificial Neurons]
-  - [01-artificial-neurons-python.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/1-artificial-neurons/01-artificial-neurons-python.ipynb)
-  - [02-artificial-neurons-bias.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/1-artificial-neurons/02-artificial-neurons-training.ipynb)
-  - [03-artificial-neurons-training.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/1-artificial-neurons/03-percpetron-bias.ipynb)
-  - [04-artificial-neurons-scikit-learning](https://github.com/muriloboratto/AI-university-assignments/blob/master/1-artificial-neurons/04-artificial-neurons-scikit-learning.ipynb)
-  - [05-artificial-neurons-assessment.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/1-artificial-neurons/05-artificial-neurons-assessment.ipynb)
+  - [01-artificial-neurons-python.ipynb](https://github.com/Leonardorodrigues7/AI-intelOneAPI/blob/51231e970b794517056c264b6061318385c22790/1-Artificial-Neurons/01-artificial-neurons-python.ipynb)
+  - [02-artificial-neurons-bias.ipynb](https://github.com/Leonardorodrigues7/AI-intelOneAPI/blob/51231e970b794517056c264b6061318385c22790/1-Artificial-Neurons/02-artificial-neurons-training.ipynb)
+  - [03-artificial-neurons-training.ipynb](https://github.com/Leonardorodrigues7/AI-intelOneAPI/blob/51231e970b794517056c264b6061318385c22790/1-Artificial-Neurons/03-artificial-neurons-bias.ipynb)
+  - [04-artificial-neurons-scikit-learning](https://github.com/Leonardorodrigues7/AI-intelOneAPI/blob/51231e970b794517056c264b6061318385c22790/1-Artificial-Neurons/04-artificial-neurons-scikit-learning.ipynb)
+  - [05-artificial-neurons-assessment.ipynb](https://github.com/Leonardorodrigues7/AI-intelOneAPI/blob/51231e970b794517056c264b6061318385c22790/1-Artificial-Neurons/05-artificial-neurons-assessment.ipynb)
 - [Neural Network]
   - [01-multilayer-artificial-neurons-introduction.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/2-Neural-Network/01-multilayer-artificial-neurons-introduction.ipynb)
   - [02-multilayer-artificial-neurons-classification.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/2-Neural-Network/02-multilayer-artificial-neurons-classification.ipynb)
